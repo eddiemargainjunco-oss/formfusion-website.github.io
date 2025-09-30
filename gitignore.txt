@@ -1,0 +1,36 @@
+# Mac files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Node modules
+node_modules/
+npm-debug.log*
+
+# Logs
+logs/
+*.log
+
+# Environment files
+.env
+.env.local
+
+# Build folders
+dist/
+build/
+
+# Temporary files
+*.tmp
+temp/
